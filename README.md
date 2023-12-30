@@ -1,19 +1,29 @@
-👩‍💻 Hello! I'm Alicia, a passionate Data Science enthusiast taking her first steps into this captivating realm. Currently, I'm immersed in learning various tools and technologies, including 
-- **Python**
-- **SQL**
-- **Pandas**
-- **NumPy**
-- **MongoDB**
-- **PowerBI**
-- **Matplotlib**
-- **Seaborn**
-- **Scikit-learn**
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Alicia+Tercero;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
-📚 My learning journey spans from efficiently handling data with pandas and NumPy to exploration and visualization using libraries like Matplotlib and Seaborn. Additionally, I'm delving into the fascinating universe of NoSQL databases with MongoDB and enhancing my analytical skills with the versatility of SQL.
+🚀 Hi there! I'm Alicia, a really excited Data Science fan who's just starting out on this fascinating adventure. Right now, I'm diving into various technologies, eager to apply them to tackle practical problems. Learning is my main thrill, and I'm loving every step of exploring the world of Data Science! 💻🔍
 
-🤖 With the goal of becoming a well-rounded professional, I'm also exploring the capabilities of machine learning with scikit-learn. For effective presentation of my findings, I'm getting acquainted with powerful visualization tools like PowerBI.
+
+| **Area**              | **Technologies**                                      |
+|-----------------------|--------------------------------------------------------|
+| **Programming**       | Python, SQL                                           |
+| **Data Manipulation** | Pandas, NumPy                                         |
+| **Database**          | MongoDB, SQL                                          |
+| **Visualization**     | Matplotlib, Seaborn, Plotly, PowerBI                          |
+| **Machine Learning**   | Scikit-learn                                         |
+| **Version Control**   | Git, GitHub                                          |
+| **Development Tools** | VSCode                                               |
+| **Notebook**          | Jupyter Notebook                                     |
+| **Soft Skills**       | Empathy, Team Organization, Collaboration, Social Skills |
+
+
+## My languages activity 
+
+ ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alitermat&theme=radical&layout=compact)
+
+## Contact with me!
 
 💡 I'm open to exciting collaborations and opportunities for joint learning! If you share my enthusiasm for Data Science, connect with me, and let's explore the world of data together!
+
 
 <p align="center">
 <a href="https://linkedin.com/in/aliiitm" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
