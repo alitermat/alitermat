@@ -16,8 +16,6 @@
 | **Soft Skills**       | Empathy, Team Organization, Collaboration, Social Skills |
 
 
-## My languages activity 
-
  ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alitermat&theme=radical&layout=compact)
 
 ## Contact with me!
