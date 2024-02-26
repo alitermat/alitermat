@@ -10,6 +10,7 @@
 | **Database**          | MongoDB, SQL                                          |
 | **Visualization**     | Matplotlib, Seaborn, Plotly, PowerBI                          |
 | **Machine Learning**   | Scikit-learn                                         |
+| **Deep Learning**   | Keras, Tensorflow                                        |
 | **Version Control**   | Git, GitHub                                          |
 | **Development Tools** | VSCode                                               |
 | **Notebook**          | Jupyter Notebook                                     |
